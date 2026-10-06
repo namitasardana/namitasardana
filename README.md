@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Namita 
 
-Data & AI Professional
+#### Data & AI Professional
 
 - 🌏 I'm based in Melbourne, Australia
 - 🧠  Python is probably where you'll find me most often
