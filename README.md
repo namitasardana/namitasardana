@@ -11,7 +11,7 @@
 #### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,pytorch,tensorflow,sklearn,aws,gcp,azure,docker,flask,fastapi,graphql,elasticsearch,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,pytorch,tensorflow,sklearn,gcp,docker,flask,graphql,elasticsearch,firebase,git,github" />
 </p>
 
 
