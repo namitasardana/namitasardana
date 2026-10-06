@@ -20,4 +20,7 @@
 <a href="https://www.linkedin.com/in/namitasardana/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
+<a href="mailto:namitasardana28@gmail.com"> 
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
 
